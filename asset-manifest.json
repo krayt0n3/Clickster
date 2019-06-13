@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clickster/static/css/main.2e8ed099.chunk.css",
+    "main.js": "/Clickster/static/js/main.4a073136.chunk.js",
+    "main.js.map": "/Clickster/static/js/main.4a073136.chunk.js.map",
+    "runtime~main.js": "/Clickster/static/js/runtime~main.970e4a92.js",
+    "runtime~main.js.map": "/Clickster/static/js/runtime~main.970e4a92.js.map",
+    "static/js/2.febb934a.chunk.js": "/Clickster/static/js/2.febb934a.chunk.js",
+    "static/js/2.febb934a.chunk.js.map": "/Clickster/static/js/2.febb934a.chunk.js.map",
+    "index.html": "/Clickster/index.html",
+    "precache-manifest.c272289cdfb1379df712c0ada672d322.js": "/Clickster/precache-manifest.c272289cdfb1379df712c0ada672d322.js",
+    "service-worker.js": "/Clickster/service-worker.js",
+    "static/css/main.2e8ed099.chunk.css.map": "/Clickster/static/css/main.2e8ed099.chunk.css.map"
+  }
+}
